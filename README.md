@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered web applications and  ML projects<br><br>👯 I’m looking to collaborate on AI/ML, Full-Stack Development<br><br>🤝 I’m looking for help with MLOps, Large Language Models (LLMs), and scalable AI systems
+🔭 I’m currently working on AI-powered web applications <br><br>👯 I’m looking to collaborate on AI/ML, Full-Stack Development<br><br>🤝 I’m looking for help with MLOps, Large Language Models (LLMs), and scalable AI systems
 
 
 ## 🌐 Socials:
